@@ -1,5 +1,5 @@
 # Phyton-ZBase32-Encode-Decode
-Python script to be used with zbase32.py to encode and decode data using Z-Base32.
+Python script to be used with zbase32.py to encode and decode data using Z-Base32 (not RFC 3548 compliant).
 
 Requirements:
 
